@@ -1,2 +1,31 @@
-# HTIN5000-Capstone-
-A student project to Conduct a feature mapping study of existing tools such as the REDCap longitudinal survey system to support the digital delivery of interactive and personalised education content and reminders. Identify gaps and propose new feature developments to enhance functionality.
+# Digital Patient Onboarding – Prototype
+
+This repository contains a prototype React application for digital patient onboarding, education, and risk management.
+
+## Features
+
+- Multimedia education delivery (video/text modules)
+- Adherence and comprehension tracking (checklists, quizzes, timestamps)
+- Clinician dashboard with actionable KPIs and risk flags
+- Modular & personalized content (literacy, language, persona branching)
+- Governance & integration stubs (mock REDCap, Teams, Healthdirect, audit log)
+- Enhancement strategy pathways (config, integration, workflow redesign)
+
+## Getting Started
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the app:
+   ```bash
+   npm start
+   ```
+
+> This is a demonstration prototype. All integrations are mocked/stubbed.
+
+---
+
+## License
+
+MIT
